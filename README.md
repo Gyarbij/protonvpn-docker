@@ -6,17 +6,17 @@
   <a href="https://protonvpn.com" target="_blank" rel="noreferrer">
     <img src="https://static.prasadt.com/logos/brands/proton/scalable/protonvpn-wide.svg" height="64" alt="protonvpn">
   </a>
-  <a href="https://ghcr.io/tprasadtp/protonvpn" target="_blank" rel="noreferrer">
+  <a href="https://ghcr.io/gyarbij/protonvpn" target="_blank" rel="noreferrer">
     <img src="https://static.prasadt.com/logos/software/docker/scalable/docker-engine-wide.svg" height="64" alt="docker">
   </a>
 </p>
 
 <!-- CI Badges -->
 
-[![build](https://github.com/tprasadtp/protonvpn-docker/actions/workflows/build.yml/badge.svg)](https://github.com/tprasadtp/protonvpn-docker/actions/workflows/build.yml)
-[![release](https://github.com/tprasadtp/protonvpn-docker/actions/workflows/release.yml/badge.svg)](https://github.com/tprasadtp/protonvpn-docker/actions/workflows/release.yml)
-[![releases](https://img.shields.io/github/v/tag/tprasadtp/protonvpn-docker?label=version&sort=semver&logo=semver&color=7f50a6&labelColor=3a3a3a)](https://github.com/tprasadtp/protonvpn-docker/releases/latest)
-[![license](https://img.shields.io/github/license/tprasadtp/protonvpn-docker?logo=github&labelColor=3A3A3A)](https://github.com/tprasadtp/protonvpn-docker/blob/master/LICENSE)
+[![build](https://github.com/Gyarbij/protonvpn-docker/actions/workflows/build.yml/badge.svg)](https://github.com/tprasadtp/protonvpn-docker/actions/workflows/build.yml)
+[![release](https://github.com/Gyarbij/protonvpn-docker/actions/workflows/release.yml/badge.svg)](https://github.com/tprasadtp/protonvpn-docker/actions/workflows/release.yml)
+[![releases](https://img.shields.io/github/v/tag/Gyarbij/protonvpn-docker?label=version&sort=semver&logo=semver&color=7f50a6&labelColor=3a3a3a)](https://github.com/tprasadtp/protonvpn-docker/releases/latest)
+[![license](https://img.shields.io/github/license/Gyarbij/protonvpn-docker?logo=github&labelColor=3A3A3A)](https://github.com/tprasadtp/protonvpn-docker/blob/master/LICENSE)
 
 ## Docker Images
 
