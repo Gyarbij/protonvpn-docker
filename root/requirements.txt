@@ -2,5 +2,5 @@
 Jinja2==3.1.2
 protonvpn-cli==2.2.11
 requests==2.28.1
-urllib3==1.26.12
+urllib3==1.26.15
 pytoml==0.1.21
